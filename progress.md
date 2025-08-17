@@ -2,15 +2,15 @@
 
 ---
 
-## Day 1 – [Date]
+## Day 1 – 2025-08-16  
 **What I learned today:**  
-- [Example: Variables, Data Types, Printing]
+- Started my Python learning journey and set up GitHub to track my progress.  
 
 **Challenges faced:**  
-- [Example: Confused about type casting, had to rewatch video]
+- Had issues with Git conflicts and repository setup, but fixed them.  
 
 **Notes to self:**  
-- [Example: Practice string formatting more]
+- Keep progress logs daily, even if I learn only a little.  
 
 **Next Steps (Plan for tomorrow):**  
-- [Example: Finish the exercises on loops]
+- Begin Python basics (variables, data types, and printing).
