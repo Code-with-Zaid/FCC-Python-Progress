@@ -1,16 +1,31 @@
-# My Python Learning Progress 🚀
+# 📅 Python Learning Progress Log
 
 ---
 
-## Day 1 – 2025-08-16  
+## Day 1 – [Date]
 **What I learned today:**  
-- Started my Python learning journey and set up GitHub to track my progress.  
+- Learned about variables, data types, and printing.
 
 **Challenges faced:**  
-- Had issues with Git conflicts and repository setup, but fixed them.  
+- Got a bit confused about type casting.
 
 **Notes to self:**  
-- Keep progress logs daily, even if I learn only a little.  
+- Practice string formatting more.
 
 **Next Steps (Plan for tomorrow):**  
-- Begin Python basics (variables, data types, and printing).
+- Work on loops.
+
+---
+
+## Day 2 – [Date]
+**What I learned today:**  
+- Learned about functions.
+
+**Challenges faced:**  
+- Needed extra time to understand parameters.
+
+**Notes to self:**  
+- Write 3 small functions to practice.
+
+**Next Steps (Plan for tomorrow):**  
+- Start with conditionals.
