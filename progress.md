@@ -2,7 +2,7 @@
 
 ---
 
-## Day 1 – [Date]
+## Day 1 – [September 13]
 **What I learned today:**  
 - Learned about variables, data types, and printing.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Day 2 – [Date]
+## Day 2 – [September 12]
 **What I learned today:**  
 - Learned about functions.
 
