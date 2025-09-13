@@ -19,13 +19,13 @@
 
 ## Day 2 – [September 12]
 **What I learned today:**  
-- Learned about functions.
+- Learned about data type and vairables.
 
 **Challenges faced:**  
-- Needed extra time to understand parameters.
+- Nothing.
 
 **Notes to self:**  
-- Write 3 small functions to practice.
+- Nothing.
 
 **Next Steps (Plan for tomorrow):**  
-- Start with conditionals.
+- Working with Strings.
